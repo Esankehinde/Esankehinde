@@ -27,4 +27,35 @@ Beyond analytics, I’m passionate about **empowering others through education**
 
 ---
 
+
+---
+
+## ⚙️ Tools & Technologies
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-1E4E79?style=for-the-badge&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-4479A1?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Esanekehinde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esanekehinde&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esanekehinde&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🧠 Currently Exploring
+- Advanced Power BI analytics & DAX modeling  
+- Integrating AI with data analytics  
+- Data storytelling & dashboard automation  
+
+---
+
+
+
 _"Data becomes powerful when it tells a story that drives action."_  
