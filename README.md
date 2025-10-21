@@ -62,14 +62,11 @@ _"Data becomes powerful when it tells a story that drives action."_
 ### 🌍 Work Experience
 
 <p align="center">
-  <img src="https://tse1.mm.bing.net/th/id/OIF.5io1q0vqDa9dQbjOLzrCTA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Burger King" width="80"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://th.bing.com/th?id=OIF.xnz8VnPoS%2fij8%2f9ntf4LFA&cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Cold Stone" width="80"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://ite-prod-cdn-end.azureedge.net/sharedmedia/breakbulkeurope/media/assets/dp_world_badge_colour_blackbg_vertical_rgb-(1).png?ext=.png" alt="DP World" width="80"/>
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Esankehinde/Esankehinde/main/assets/logos/Logo.png" alt="Burger King" width="80"/>
   <img src="https://gbprodgbfoods.azurewebsites.net/wp-content/uploads/2023/01/logo-nigeria.jpg" alt="GB Foods" width="80"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="https://th.bing.com/th/id/R.3615b9f27281f4659298a421e33bd0bd?rik=cBSaZhFqOmaAyg&riu=http%3a%2f%2fwww.sweetnutritionltd.com%2fwp-content%2fuploads%2f2020%2f11%2fSNL-Logo-Main-300x112.png&ehk=HisnwuqMhZhqg7DRYwEUyA4U9M9gvpiEbwsfBJu6P24%3d&risl=&pid=ImgRaw&r=0" alt="Sweet Nutrition" width="80"/>
+  <img src="https://ite-prod-cdn-end.azureedge.net/sharedmedia/breakbulkeurope/media/assets/dp_world_badge_colour_blackbg_vertical_rgb-(1).png?ext=.png" alt="DP World" width="80"/>
+  <img src="https://th.bing.com/th?id=OIF.xnz8VnPoS%2fij8%2f9ntf4LFA&cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Cold Stone Creamery" width="80"/>
 </p>
+
 ---
