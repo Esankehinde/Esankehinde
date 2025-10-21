@@ -1,32 +1,32 @@
 ## 👋 Hi, I'm Esan Ezekiel Kehinde  
 
-I’m a **Senior Data Analyst** with over 8 years of experience turning data into strategic insights for decision-making.  
-I specialize in **Power BI, Excel, and SQL**, with a strong passion for data automation, visualization, and analytics training.  
+I’m a **Business Intelligence Manager** with over **8 years of experience** turning raw data into strategic insights that drive performance and informed decision-making.  
 
-Currently, I lead the **Sales Force Automation (SFA) & Data Insight Team** at a leading QSR brand, where I ensure data accuracy, reporting efficiency, and actionable business insights across all regions.  
+Currently, I **oversee business analysis and key decision-making** for a leading **Quick Service Restaurant (QSR)** brand in Nigeria — where I collaborate with leadership teams to translate data into actionable strategies for growth, efficiency, and profitability.  
 
-Beyond analytics, I’m passionate about **empowering others through education** — I run an **analytics and vocational institute** offering training in **Data Analysis (Excel, Power BI)** and **Furniture Technology**.  
+Previously, I led the **Sales Force Automation (SFA) & Data Insight Team**, ensuring data accuracy, operational efficiency, and insightful reporting across all sales regions. This experience laid the foundation for my current leadership in business intelligence — merging deep analytical expertise with strategic business insight.  
 
-### 💡 What I Do
-- 📊 Build insightful dashboards and performance reports in Power BI & Excel  
-- 🧠 Train teams and individuals on data analysis best practices  
-- 🧩 Manage and analyze secondary data for business optimization  
-- ⚙️ Automate reporting and enhance data-driven decision processes  
+Beyond my corporate role, I am the **Founder of Annivers Consults**, a **data analytics consultancy firm** dedicated to **imparting lives and transforming businesses through data knowledge and insights**, a firm I run at my leisure.  
 
-### 🛠️ Tools & Technologies
-**Excel | Power BI | SQL | DAX | VBA | Python (beginner) | Git | Data Modeling**
-
-### 🌱 Currently Exploring
-- Advanced data storytelling with Power BI  
-- Integrating AI into business analytics  
-
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/esanekehinde)  
-- [Email](mailto:esanekehinde101@gmail.com)
-- [Phone](+2348058479151)
+I’m passionate about building a **data-driven culture** — empowering individuals and organizations to make smarter, evidence-based decisions.  
 
 ---
 
+### 💡 What I Do
+- 📊 Build and manage **interactive Power BI dashboards** and advanced Excel reports  
+- 📈 Lead **business analysis and insight generation** for executive decision-making  
+- ⚙️ Automate reporting and streamline **data-driven workflows**  
+- 🧠 Train and mentor professionals in **Excel, Power BI, and data analytics**  
+- 🤝 Provide **data consultancy and analytics strategy** through **Annivers Consults**  
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/esanekehinde)  
+- [Email](mailto:esanekehinde@gmail.com)
+- [Phone Number](+2348058479151)
+
+---
 
 ---
 
@@ -40,22 +40,22 @@ Beyond analytics, I’m passionate about **empowering others through education**
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-4479A1?style=for-the-badge&logo=microsoft&logoColor=white)
 
+
+---
+
+### 🌱 Currently Exploring
+- Advanced **data storytelling** and **AI integration** in analytics  
+- Building scalable **business intelligence systems** for multi-unit operations  
+- Advanced **Power BI analytics** & **DAX modeling** 
+- Integrating AI with data analytics  
+- Data storytelling & dashboard automation  
+
 ---
 
 ## 📊 GitHub Stats
 
 ![Esanekehinde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esanekehinde&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esanekehinde&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🧠 Currently Exploring
-- Advanced Power BI analytics & DAX modeling  
-- Integrating AI with data analytics  
-- Data storytelling & dashboard automation  
-
----
-
 
 
 _"Data becomes powerful when it tells a story that drives action."_  
