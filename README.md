@@ -28,8 +28,6 @@ I’m passionate about building a **data-driven culture** — empowering individ
 
 ---
 
----
-
 ## ⚙️ Tools & Technologies
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -54,8 +52,8 @@ I’m passionate about building a **data-driven culture** — empowering individ
 
 ## 📊 GitHub Stats
 
-![Esanekehinde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esanekehinde&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esanekehinde&layout=compact&theme=tokyonight&hide_border=true)
+![Esanekehinde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esankehinde&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esankehinde&layout=compact&theme=tokyonight&hide_border=true)
 
 
 _"Data becomes powerful when it tells a story that drives action."_  
